@@ -11,7 +11,7 @@ Zuletzt definieren und wir ein neuronales Netz mithilfe von pytorch und trainier
 # Abgabeartefakte 
 Die Lösung ist als [Jupyter Notebook](./FNN_Model.ipynb) verfasst (Python Kernel).
 
-Die Klassifizierung der Testdaten ist [hier](./data/classified-testdata.csv) zu finden.
+Die Klassifizierung der Testdaten ist [hier](./output/classified-testdata.csv) zu finden.
 
 
 # Installationsvorraussetzungen
