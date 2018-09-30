@@ -9,7 +9,7 @@ Wir unterteilen die Trainingsdaten in das eigentliche Trainingsset und Validieru
 Zuletzt definieren und wir ein neuronales Netz mithilfe von pytorch und trainieren es auf den Trainingsdaten.
 
 # Abgabeartefakte 
-Die Lösung ist als [Jupyter Notebook](./FNN_Model.ipnb) verfasst (Python Kernel).
+Die Lösung ist als [Jupyter Notebook](./blob/master/FNN_Model.ipynb) verfasst (Python Kernel).
 
 Die Klassifizierung der Testdaten ist [hier](data/classified-testdata.csv) zu finden.
 
